@@ -3,7 +3,7 @@ int main()
 {
     float a, b, c, d, e, f, g, h, i, j, k;
 
-    printf("Enter Amount");
+    printf("Enter Amount = ");
 
     scanf("%f", &a);
     b = (a + (a * .15));
